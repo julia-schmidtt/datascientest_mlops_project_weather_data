@@ -1,0 +1,6 @@
+outs:
+- md5: 266d5a4ae1885aa1f1fb3ab38b4597f1.dir
+  size: 12992224
+  nfiles: 4
+  hash: md5
+  path: split_01_2008
