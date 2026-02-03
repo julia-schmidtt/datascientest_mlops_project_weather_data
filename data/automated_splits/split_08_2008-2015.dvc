@@ -1,0 +1,6 @@
+outs:
+- md5: 04fc1faf8256741207eb34aead6d5529.dir
+  size: 52040490
+  nfiles: 4
+  hash: md5
+  path: split_08_2008-2015
